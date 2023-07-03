@@ -3,8 +3,9 @@
 
  I like to code things from scratch, and enjoy bringing ideas to life in browser
 
-Skills:  / REACT / JS / HTML / CSS
+Skills:  / REACT / JS / HTML / CSS / Typescript / Next.js
 
+ 
 - 🔭 I’m currently working on So many projects. 
 - 🌱 I’m currently learning Backend development 
 
